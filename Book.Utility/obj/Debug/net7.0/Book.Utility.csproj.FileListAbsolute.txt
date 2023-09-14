@@ -1,0 +1,12 @@
+E:\Nik\ManagementSystem\Book.Utility\bin\Debug\net7.0\Book.Utility.deps.json
+E:\Nik\ManagementSystem\Book.Utility\bin\Debug\net7.0\Book.Utility.dll
+E:\Nik\ManagementSystem\Book.Utility\bin\Debug\net7.0\Book.Utility.pdb
+E:\Nik\ManagementSystem\Book.Utility\obj\Debug\net7.0\Book.Utility.csproj.AssemblyReference.cache
+E:\Nik\ManagementSystem\Book.Utility\obj\Debug\net7.0\Book.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nik\ManagementSystem\Book.Utility\obj\Debug\net7.0\Book.Utility.AssemblyInfoInputs.cache
+E:\Nik\ManagementSystem\Book.Utility\obj\Debug\net7.0\Book.Utility.AssemblyInfo.cs
+E:\Nik\ManagementSystem\Book.Utility\obj\Debug\net7.0\Book.Utility.csproj.CoreCompileInputs.cache
+E:\Nik\ManagementSystem\Book.Utility\obj\Debug\net7.0\Book.Utility.dll
+E:\Nik\ManagementSystem\Book.Utility\obj\Debug\net7.0\refint\Book.Utility.dll
+E:\Nik\ManagementSystem\Book.Utility\obj\Debug\net7.0\Book.Utility.pdb
+E:\Nik\ManagementSystem\Book.Utility\obj\Debug\net7.0\ref\Book.Utility.dll

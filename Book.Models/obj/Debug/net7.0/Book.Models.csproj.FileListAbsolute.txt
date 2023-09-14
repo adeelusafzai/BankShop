@@ -1,0 +1,12 @@
+E:\Nik\ManagementSystem\Book.Models\obj\Debug\net7.0\Book.Models.csproj.AssemblyReference.cache
+E:\Nik\ManagementSystem\Book.Models\obj\Debug\net7.0\Book.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nik\ManagementSystem\Book.Models\obj\Debug\net7.0\Book.Models.AssemblyInfoInputs.cache
+E:\Nik\ManagementSystem\Book.Models\obj\Debug\net7.0\Book.Models.AssemblyInfo.cs
+E:\Nik\ManagementSystem\Book.Models\obj\Debug\net7.0\Book.Models.csproj.CoreCompileInputs.cache
+E:\Nik\ManagementSystem\Book.Models\bin\Debug\net7.0\Book.Models.deps.json
+E:\Nik\ManagementSystem\Book.Models\bin\Debug\net7.0\Book.Models.dll
+E:\Nik\ManagementSystem\Book.Models\bin\Debug\net7.0\Book.Models.pdb
+E:\Nik\ManagementSystem\Book.Models\obj\Debug\net7.0\Book.Models.dll
+E:\Nik\ManagementSystem\Book.Models\obj\Debug\net7.0\refint\Book.Models.dll
+E:\Nik\ManagementSystem\Book.Models\obj\Debug\net7.0\Book.Models.pdb
+E:\Nik\ManagementSystem\Book.Models\obj\Debug\net7.0\ref\Book.Models.dll
